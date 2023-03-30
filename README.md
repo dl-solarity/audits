@@ -4,4 +4,4 @@
 - Tornado Cash
 - NFTxCards
 
-Feel free to request an audit [here](https://distributedlab.com/contacts).
+Feel free to contact us and request an audit [here](mailto:sales@distributedlab.com).
